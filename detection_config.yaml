@@ -1,0 +1,5 @@
+names:
+  0: wbc
+path: D:\master_thesis_wd\datasets\detection_dataset
+train: train/images
+val: val/images

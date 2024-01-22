@@ -1,0 +1,13 @@
+names:
+  0: Basophile
+  1: Eosinophile
+  2: Lymphoblast
+  3: Lymphocyte
+  4: Monocyte
+  5: Myeloblast
+  6: Neutrophile Band
+  7: Neutrophile Segment
+  8: Normoblast
+path: D:\master_thesis_wd\datasets\detection_and_classification_dataset
+train: train/images
+val: val/images
